@@ -52,6 +52,20 @@
             "collapse_content": false
           }
         },
+        "collapsible_text_qtdj3e": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Key Features",
+            "content": "<ul><li>100% biodegradablematerials</li><li>Handcrafted byskilledartisans</li><li>Structured, spaciousdesign</li><li>Gold-finishsecurelock</li><li>Dual carry:handle +strap</li><li>Eco-friendly &cruelty-free</li></ul>"
+          }
+        },
+        "collapsible_text_TeKf3z": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "MATERIAL COMPOSITION: ",
+            "content": "<p>Organic cotton canvas, Natural handwoven jute, Bamboo Fabric</p>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -87,6 +101,8 @@
         "payment_terms",
         "separator",
         "description",
+        "collapsible_text_qtdj3e",
+        "collapsible_text_TeKf3z",
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
