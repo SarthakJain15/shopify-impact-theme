@@ -25,12 +25,39 @@
         "overlay_opacity": 30
       }
     },
+    "featured_collection_qaHtFJ": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "tote-bags",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 8,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Tote Bags",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Backpack_copy_2.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -43,6 +70,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Totes_handbags_4.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -55,6 +83,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Briefcase_Duffle_copy_3_c7ec8e2d-15b9-46ef-b9d2-e90c3df55636.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -67,6 +96,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Briefcase_Duffle_copy_4.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -79,6 +109,7 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Luggage_2.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -833,6 +864,7 @@
   },
   "order": [
     "image_with_text_overlay_9hRmYh",
+    "featured_collection_qaHtFJ",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
