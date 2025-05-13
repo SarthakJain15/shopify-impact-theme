@@ -62,8 +62,15 @@
         "collapsible_text_TeKf3z": {
           "type": "collapsible_text",
           "settings": {
-            "title": "MATERIAL COMPOSITION: ",
+            "title": "MATERIAL COMPOSITION",
             "content": "<p>Organic cotton canvas, Natural handwoven jute, Bamboo Fabric</p>"
+          }
+        },
+        "collapsible_text_7X9JXW": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "CARE INSTRUCTIONS",
+            "content": "<p>It is recommended that you gently hand wash with a mild detergent.  Air Dry the products.</p>"
           }
         },
         "variant_picker": {
@@ -103,6 +110,7 @@
         "description",
         "collapsible_text_qtdj3e",
         "collapsible_text_TeKf3z",
+        "collapsible_text_7X9JXW",
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
