@@ -160,14 +160,14 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
+        "text": "designed for #goingplaces",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "scrolling_speed": 11,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#8b7150",
         "text_gradient": ""
       }
     },
