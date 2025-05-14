@@ -72,66 +72,108 @@
         "background_gradient": ""
       }
     },
-    "multi_column_Q7HgBy": {
-      "type": "multi-column",
+    "rich_text_WqLNy3": {
+      "type": "rich-text",
       "blocks": {
-        "item_EEVDxw": {
-          "type": "item",
+        "subheading_BF9LXU": {
+          "type": "subheading",
           "settings": {
-            "image": "shopify://shop_images/logos-49_1.png",
-            "column_size": "3",
-            "title": "Consciously Created",
-            "heading_tag": "h4",
-            "content": "<p>Our products are born out of intention - not just design. From sourcing to stitching, every decision is guided by our values: sustainability, transparency, and timeless quality.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "100% Organic & Bio-degradable"
           }
         },
-        "item_hFEBwR": {
-          "type": "item",
+        "heading_NqimQV": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/logos-50_1.png",
-            "column_size": "3",
-            "title": "Plastic Free",
-            "heading_tag": "h4",
-            "content": "<p>We believe luxury shouldn't come at the cost of the planet. That's why we’ve eliminated plastic from every part of our product - from the materials  to the packaging they arrive in.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Kanakpat is earth-friendly",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "item_GAVbF8": {
-          "type": "item",
+        "richtext_bkUMDa": {
+          "type": "richtext",
           "settings": {
-            "image": "shopify://shop_images/logos-51_1.png",
-            "column_size": "3",
-            "title": "Zero Waste",
-            "heading_tag": "h4",
-            "content": "<p>Waste is a design flaw — and we’ve designed it out. Our zero-waste model ensures we use every scrap of fabric, repurpose leftovers, and work in small batches.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>Discover our premium handbags that blend timeless design with sustainable luxury.</p>"
           }
         }
       },
       "block_order": [
-        "item_EEVDxw",
-        "item_hFEBwR",
-        "item_GAVbF8"
+        "subheading_BF9LXU",
+        "heading_NqimQV",
+        "richtext_bkUMDa"
       ],
-      "name": "Multi-column",
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_QKhdzy": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_aeACrN": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/logos-49_1.png",
+            "mobile_icon_width": 24,
+            "icon_width": 60,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Consciously Created",
+            "content": "<p>Our products are born out of intention - not just design. From sourcing to stitching, every decision is guided by our values: sustainability, transparency, and timeless quality.</p>"
+          }
+        },
+        "item_wpxwPD": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/logos-50_1.png",
+            "mobile_icon_width": 24,
+            "icon_width": 60,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Plastic Free",
+            "content": "<p>We believe luxury shouldn't come at the cost of the planet. That's why we’ve eliminated plastic from every part of our product - from the materials  to the packaging they arrive in.</p>"
+          }
+        },
+        "item_a8K7T6": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/logos-51_1.png",
+            "mobile_icon_width": 24,
+            "icon_width": 60,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Zero Waste",
+            "content": "<p>Waste is a design flaw - and we’ve designed it out. Our zero-waste model ensures we use every scrap of fabric, repurpose leftovers, and work in small batches.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_aeACrN",
+        "item_wpxwPD",
+        "item_a8K7T6"
+      ],
+      "name": "Text with icons",
       "settings": {
         "full_width": false,
         "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "start",
-        "subheading": "100% Organic & Bio-degradable",
-        "title": "Kanakpat is earth-friendly",
-        "content": "",
-        "background": "#ffffff",
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#2a2a2a"
+        "text_color": ""
       }
     },
     "featured_collection_qaHtFJ": {
@@ -418,7 +460,8 @@
   },
   "order": [
     "slideshow_rC3aqB",
-    "multi_column_Q7HgBy",
+    "rich_text_WqLNy3",
+    "text_with_icons_QKhdzy",
     "featured_collection_qaHtFJ",
     "image-link-blocks",
     "scrolling-text",
