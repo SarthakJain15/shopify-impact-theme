@@ -92,8 +92,8 @@
           "type": "newsletter",
           "settings": {
             "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "heading_size": "h6",
+            "title": "Be the first to know!",
             "content": ""
           }
         },
@@ -107,21 +107,29 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Need Help?",
+            "content": "<p>Mon to Sat :<br/>10:00 am - 6:30 pm<br/><br/>Chat directly with our executive on whatsapp: +91-7737684224</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "links_PQqcVH": {
+          "type": "links",
+          "settings": {
+            "menu": "support",
+            "show_menu_title": true
           }
         }
       },
       "block_order": [
         "newsletter",
         "links",
-        "text"
+        "text",
+        "links_PQqcVH"
       ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
-        "show_country_selector": false,
+        "show_country_selector": true,
         "show_country_flag": false,
         "show_country_name": false,
         "show_locale_selector": false
