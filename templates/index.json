@@ -104,10 +104,10 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "content_width": "medium",
         "text_position": "center",
-        "background": "",
+        "background": "#fefdf8",
         "background_gradient": "",
         "text_color": "#2a2a2a"
       }
@@ -165,13 +165,13 @@
       ],
       "name": "Text with icons",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "stack_on_mobile": false,
         "title": "",
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "",
+        "background": "#fefdf8",
         "background_gradient": "",
         "text_color": ""
       }
