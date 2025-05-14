@@ -17,28 +17,34 @@
     "block_shadow_vertical_offset": 18,
     "background": "#fff",
     "text_color": "#2a2a2a",
+    "success_color": "#8b7150",
+    "error_color": "#8b7150",
     "header_background": "#fff",
-    "header_text_color": "#8b7150",
+    "header_text_color": "#2a2a2a",
     "footer_background": "#ffffff",
     "footer_text_color": "#1a1a1a",
     "primary_button_background": "#8b7150",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#7b9677",
     "secondary_button_text_color": "#ffffff",
-    "product_card_text_color": "#1a1a1a",
+    "product_card_text_color": "#2a2a2a",
     "product_rating_color": "#ff7b4a",
     "product_on_sale_accent": "#7b9677",
+    "product_sold_out_badge_background": "#ffb74a",
     "product_primary_badge_background": "#7b9677",
     "heading_font": "inter_n6",
-    "heading_font_size": "medium",
+    "heading_font_size": "small",
+    "heading_text_transform": "normal",
     "heading_letter_spacing": -2,
     "text_font": "inter_n4",
     "text_font_size_desktop": 16,
+    "text_font_letter_spacing": -1,
     "show_page_transition": true,
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_icon": "tote_bag",
+    "social_instagram": "https://instagram.com/kanakpatofficial",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
@@ -140,5 +146,8 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": []
   }
 }

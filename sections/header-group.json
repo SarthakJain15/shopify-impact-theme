@@ -20,11 +20,20 @@
             "text": "Free Shipping On all Orders",
             "url": ""
           }
+        },
+        "message_rG8dTy": {
+          "type": "message",
+          "settings": {
+            "text": "Extra 5% off on Prepaid Orders",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_rG8dTy"
       ],
+      "custom_css": [],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-base",
