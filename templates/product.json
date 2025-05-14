@@ -133,6 +133,66 @@
         "input_text_color": ""
       }
     },
+    "testimonials_na8apw": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_6Dr4NF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_qBm6Ff": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_JY6HeF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_6Dr4NF",
+        "testimonial_qBm6Ff",
+        "testimonial_JY6HeF"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": false,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "What Our Customers Say",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#2a2a2a",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "images_with_text_scrolling_gTxwJE": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -200,6 +260,7 @@
   },
   "order": [
     "main",
+    "testimonials_na8apw",
     "images_with_text_scrolling_gTxwJE"
   ]
 }
