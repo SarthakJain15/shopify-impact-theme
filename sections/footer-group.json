@@ -24,7 +24,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Reach out to us",
-            "content": "<p>Need assistance? Write to us at <strong>support@mokobara.com</strong></p>"
+            "content": "<p>Need assistance? Write to us at <a href=\"mailto:support@kanakpat.com\" target=\"_blank\" title=\"mailto:support@kanakpat.com\"><strong>support@kanakpat.com</strong></a></p>"
           }
         },
         "customer-support": {
