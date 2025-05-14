@@ -9,23 +9,6 @@
  */
 {
   "sections": {
-    "image_with_text_overlay_9hRmYh": {
-      "type": "image-with-text-overlay",
-      "custom_css": [],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_May_14_2025_10_28_16_AM.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_Q7HgBy": {
       "type": "multi-column",
       "blocks": {
@@ -371,7 +354,6 @@
     }
   },
   "order": [
-    "image_with_text_overlay_9hRmYh",
     "multi_column_Q7HgBy",
     "featured_collection_qaHtFJ",
     "image-link-blocks",
