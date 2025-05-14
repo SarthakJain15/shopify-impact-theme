@@ -68,25 +68,10 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
-    },
-    "custom_liquid_qLfkcR": {
-      "type": "custom-liquid",
-      "custom_css": [],
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<a href=\"https://saff6u-ey.myshopify.com/collections/tote-bags\"><img src=\"https://saff6u-ey.myshopify.com/cdn/shop/files/ChatGPT_Image_May_14_2025_10_28_16_AM.png?v=1747198966&width=1200\" alt=\"Image Description\" width=\"1920\" height=\"1080\" style=\"padding-top: 22px\"></a>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "custom_liquid_qLfkcR"
+    "header"
   ]
 }
