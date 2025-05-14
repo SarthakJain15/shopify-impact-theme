@@ -61,7 +61,7 @@
       ],
       "name": "Slideshow",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "image_size": "auto",
         "controls_type": "dots",
