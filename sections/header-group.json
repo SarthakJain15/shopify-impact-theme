@@ -39,7 +39,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 30,
-        "background": "#e1d5c0",
+        "background": "#fffffc",
         "background_gradient": "",
         "text_color": "#8b7150"
       }
@@ -77,7 +77,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<a href=\"https://saff6u-ey.myshopify.com/collections/tote-bags\"><img src=\"https://saff6u-ey.myshopify.com/cdn/shop/files/ChatGPT_Image_May_14_2025_10_28_16_AM.png?v=1747198966&width=1200\" alt=\"Image Description\"></a>",
+        "liquid": "<a href=\"https://saff6u-ey.myshopify.com/collections/tote-bags\"><img src=\"https://saff6u-ey.myshopify.com/cdn/shop/files/ChatGPT_Image_May_14_2025_10_28_16_AM.png?v=1747198966&width=1200\" alt=\"Image Description\" width=\"1920\" height=\"1080\" style=\"padding-top: 40px\"></a>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
