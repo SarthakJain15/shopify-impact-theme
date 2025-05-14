@@ -61,14 +61,14 @@
       ],
       "name": "Slideshow",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "image_size": "auto",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "autoplay": true,
+        "cycle_speed": 4,
+        "background": "#fffffc",
         "background_gradient": ""
       }
     },
