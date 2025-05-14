@@ -133,31 +133,73 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "images_with_text_scrolling_gTxwJE": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_7xCbUe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/The-Coupe-Backpack_Feature-7_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Say hello to massive storage",
+            "content": "<p>The main compartment makes room for all your daily essentials, and then some. Features a zipper pocket which secures your smaller items.</p>"
+          }
+        },
+        "item_8NY84h": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/The-Coupe-Backpack_Feature-7_2.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Adjustable shoulder strap buckles",
+            "content": "<p>Shoulder strap buckles that come with a lock. Makes it super easy to secure and adjust the shoulder strap length.</p>"
+          }
+        },
+        "item_Tkbknk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/The-Coupe-Backpack_Feature-7_3.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Front zipper pocket",
+            "content": "<p>Keeps the things you need while you’re on-the-go (access cards/theme park map) closer to you.</p>"
+          }
+        },
+        "item_67zHTb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/The-Coupe-Backpack_Feature-7.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "The little things, organised.",
+            "content": "<p>The quick access pocket features pen pockets, slip pockets and a key holder - keeping your smaller items secure.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7xCbUe",
+        "item_8NY84h",
+        "item_Tkbknk",
+        "item_67zHTb"
+      ],
+      "name": "Images and text scrolling",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "text_color": "#2a2a2a",
+        "heading_color": "#8b7150",
+        "heading_gradient": ""
       }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "images_with_text_scrolling_gTxwJE"
   ]
 }
