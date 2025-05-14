@@ -85,7 +85,7 @@
           "type": "heading",
           "settings": {
             "text": "Kanakpat is earth-friendly",
-            "heading_tag": "h1",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -120,7 +120,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/logos-49_1.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 44,
             "icon_width": 60,
             "icon_background_type": "none",
             "icon_background": "",
@@ -134,7 +134,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/logos-50_1.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 44,
             "icon_width": 60,
             "icon_background_type": "none",
             "icon_background": "",
@@ -148,7 +148,7 @@
           "settings": {
             "icon": "picto-coupon",
             "custom_icon": "shopify://shop_images/logos-51_1.png",
-            "mobile_icon_width": 24,
+            "mobile_icon_width": 44,
             "icon_width": 60,
             "icon_background_type": "none",
             "icon_background": "",
