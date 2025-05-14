@@ -67,7 +67,7 @@
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": true,
-        "cycle_speed": 4,
+        "cycle_speed": 8,
         "background": "#fffffc",
         "background_gradient": ""
       }
