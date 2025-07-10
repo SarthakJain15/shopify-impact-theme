@@ -205,7 +205,7 @@
         "video_size": "sm",
         "external_video_url": "https://youtu.be/TaozMnMNcE4?si=5kjw9q3XMT3PWwax",
         "poster": "shopify://shop_images/retail-shopping-package.jpg",
-        "text_color": "#ffffff",
+        "text_color": "#fafafa",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
@@ -394,7 +394,7 @@
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "#2a2a2a",
+        "text_color": "#32241b",
         "before_text_color": "#8b7150",
         "after_text_color": "#8b7150",
         "drag_cursor_background": "#ffffff",
@@ -444,13 +444,13 @@
         "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#2a2a2a",
-        "heading_color": "#2a2a2a",
+        "text_color": "#32241b",
+        "heading_color": "#32241b",
         "heading_gradient": "",
         "button_background": "#8b7150",
         "button_text_color": "",
         "accordion_background": "#fafafa",
-        "accordion_text_color": "#2a2a2a"
+        "accordion_text_color": "#32241b"
       }
     }
   },
