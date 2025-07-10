@@ -36,7 +36,7 @@
         "image_gngDUG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/6cf534f2-63ac-4db6-ba83-8917c918f920.png",
+            "image": "shopify://shop_images/ChatGPT_Image_Jul_10_2025_06_30_39_PM.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -85,7 +85,7 @@
           "type": "heading",
           "settings": {
             "text": "Kanakpat is earth-friendly",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "#645144",
             "gradient": ""
           }
