@@ -15,8 +15,8 @@
         "image_49hejd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_May_14_2025_10_28_16_AM.png",
-            "content_max_width": 780,
+            "image": "shopify://shop_images/Slide_1.png",
+            "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
