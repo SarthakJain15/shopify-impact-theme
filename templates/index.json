@@ -88,7 +88,7 @@
           "settings": {
             "text": "Kanakpat is earth-friendly",
             "heading_tag": "h2",
-            "text_color": "#645144",
+            "text_color": "#7b9677",
             "gradient": ""
           }
         },
@@ -126,7 +126,7 @@
             "icon_width": 60,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
+            "icon_color": "#7b9677",
             "title": "Consciously Created",
             "content": "<p>Our products are born out of intention - not just design. From sourcing to stitching, every decision is guided by our values</p>"
           }
@@ -227,12 +227,12 @@
         "content": "",
         "link_url": "",
         "link_text": "View all",
-        "background": "",
+        "background": "#f6f1ea",
         "background_gradient": "",
-        "text_color": "#2a2a2a",
+        "text_color": "#32241b",
         "heading_color": "",
         "heading_gradient": "",
-        "product_card_background": "",
+        "product_card_background": "#efeadf",
         "product_card_text_color": ""
       }
     },
@@ -338,7 +338,7 @@
         "scrolling_speed": 11,
         "background": "",
         "background_gradient": "",
-        "text_color": "#8b7150",
+        "text_color": "#7b9677",
         "text_gradient": ""
       }
     },
