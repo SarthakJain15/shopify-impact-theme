@@ -109,22 +109,12 @@
             "content": "<p>Mon to Sat :<br/>10:00 am - 6:30 pm<br/><br/>Chat directly with our executive on whatsapp: +91-7737684224</p>",
             "enable_follow_on_shop": false
           }
-        },
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h6",
-            "title": "Be the first to know!",
-            "content": ""
-          }
         }
       },
       "block_order": [
         "links",
         "links_PQqcVH",
-        "text",
-        "newsletter"
+        "text"
       ],
       "settings": {
         "show_social_media": true,

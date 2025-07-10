@@ -176,6 +176,38 @@
         "text_color": "#645144"
       }
     },
+    "video_wfr8UN": {
+      "type": "video",
+      "blocks": {
+        "play_YL7PiK": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_iyrqQX": {
+          "type": "heading",
+          "settings": {
+            "text": "From Plant to Product",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_YL7PiK",
+        "heading_iyrqQX"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "sm",
+        "external_video_url": "https://youtu.be/TaozMnMNcE4?si=5kjw9q3XMT3PWwax",
+        "poster": "shopify://shop_images/retail-shopping-package.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured_collection_qaHtFJ": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -418,49 +450,18 @@
         "accordion_background": "#fafafa",
         "accordion_text_color": "#2a2a2a"
       }
-    },
-    "video_wfr8UN": {
-      "type": "video",
-      "blocks": {
-        "play_YL7PiK": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_iyrqQX": {
-          "type": "heading",
-          "settings": {
-            "text": "From Plant to Product",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_YL7PiK",
-        "heading_iyrqQX"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://youtu.be/TaozMnMNcE4?si=5kjw9q3XMT3PWwax",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
     "slideshow_rC3aqB",
     "rich_text_WqLNy3",
     "text_with_icons_QKhdzy",
+    "video_wfr8UN",
     "featured_collection_qaHtFJ",
     "image-link-blocks",
     "scrolling-text",
     "impact-text",
     "before-after-image",
-    "faq",
-    "video_wfr8UN"
+    "faq"
   ]
 }
