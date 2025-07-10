@@ -418,6 +418,37 @@
         "accordion_background": "#fafafa",
         "accordion_text_color": "#2a2a2a"
       }
+    },
+    "video_wfr8UN": {
+      "type": "video",
+      "blocks": {
+        "play_YL7PiK": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_iyrqQX": {
+          "type": "heading",
+          "settings": {
+            "text": "From Plant to Product",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_YL7PiK",
+        "heading_iyrqQX"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://youtu.be/TaozMnMNcE4?si=5kjw9q3XMT3PWwax",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -429,6 +460,7 @@
     "scrolling-text",
     "impact-text",
     "before-after-image",
-    "faq"
+    "faq",
+    "video_wfr8UN"
   ]
 }
