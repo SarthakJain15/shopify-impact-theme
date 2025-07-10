@@ -64,12 +64,12 @@
       "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "image_size": "auto",
+        "allow_transparent_header": true,
+        "image_size": "fill",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": true,
-        "cycle_speed": 8,
+        "cycle_speed": 6,
         "background": "#fffffc",
         "background_gradient": ""
       }
