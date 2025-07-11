@@ -219,38 +219,6 @@
         "text_color": "#2a2a2a"
       }
     },
-    "video_wfr8UN": {
-      "type": "video",
-      "blocks": {
-        "play_YL7PiK": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_iyrqQX": {
-          "type": "heading",
-          "settings": {
-            "text": "From Plant to Product",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_YL7PiK",
-        "heading_iyrqQX"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "sm",
-        "external_video_url": "https://youtu.be/TaozMnMNcE4?si=5kjw9q3XMT3PWwax",
-        "poster": "shopify://shop_images/retail-shopping-package.jpg",
-        "text_color": "#fafafa",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -340,6 +308,38 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "video_wfr8UN": {
+      "type": "video",
+      "blocks": {
+        "play_YL7PiK": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_iyrqQX": {
+          "type": "heading",
+          "settings": {
+            "text": "From Plant to Product",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_YL7PiK",
+        "heading_iyrqQX"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "sm",
+        "external_video_url": "https://youtu.be/TaozMnMNcE4?si=5kjw9q3XMT3PWwax",
+        "poster": "shopify://shop_images/retail-shopping-package.jpg",
+        "text_color": "#fafafa",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "rich_text_Vp4GA7": {
@@ -595,10 +595,10 @@
     "slideshow_rC3aqB",
     "scrolling-text",
     "featured_collection_wgwTHG",
+    "image-link-blocks",
     "rich_text_WqLNy3",
     "text_with_icons_QKhdzy",
     "video_wfr8UN",
-    "image-link-blocks",
     "rich_text_Vp4GA7",
     "text_with_icons_HJfcz9",
     "testimonials_gf36BD",
