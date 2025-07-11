@@ -11,43 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "recent_sales_popup_g7C6QL": {
-      "type": "recent-sales-popup",
-      "name": "Recent Sales Popup",
-      "settings": {
-        "popup_title": "Recently purchased",
-        "show_interval": 30,
-        "display_duration": 6,
-        "popup_background_color": "#f5f5f5",
-        "border_color": "#7b9677",
-        "text_color": "#2a2a2a",
-        "customer_text_color": "#2a2a2a",
-        "time_text_color": "#2a2a2a",
-        "accent_color": "#7b9677",
-        "border_radius": 12,
-        "image_border_radius": 12,
-        "product_1": "crinkle-stripe-tote",
-        "customer_name_1": "Sarthak",
-        "product_2": "tote-bag",
-        "customer_name_2": "Isha",
-        "product_3": "out-of-office-tote-bag",
-        "customer_name_3": "Abhishek",
-        "product_4": "vigour-tote-bag",
-        "customer_name_4": "Bharti",
-        "product_5": "",
-        "customer_name_5": "",
-        "product_6": "",
-        "customer_name_6": "",
-        "product_7": "",
-        "customer_name_7": "",
-        "product_8": "",
-        "customer_name_8": "",
-        "product_9": "",
-        "customer_name_9": "",
-        "product_10": "",
-        "customer_name_10": ""
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -90,7 +53,6 @@
     }
   },
   "order": [
-    "recent_sales_popup_g7C6QL",
     "footer"
   ]
 }
