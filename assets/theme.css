@@ -9878,25 +9878,3 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
-
-/* Transparent to translucent header like Mokobara */
-.header-wrapper {
-  background-color: transparent !important;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 9999;
-  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
-}
-
-.header-wrapper.scrolled {
-  background-color: rgba(255, 255, 255, 0.85) !important;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-}
-
-main#main {
-  padding-top: 22px; /* Adjust based on your header height */
-}
