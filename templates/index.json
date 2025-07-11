@@ -61,6 +61,9 @@
         "image_KwhGFk",
         "image_dBGReR"
       ],
+      "custom_css": [
+        "{margin-top: -11px;}"
+      ],
       "name": "Slideshow",
       "settings": {
         "full_width": false,
