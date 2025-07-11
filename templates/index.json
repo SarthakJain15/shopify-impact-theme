@@ -126,7 +126,7 @@
         "text_position": "center",
         "background": "#fefdf8",
         "background_gradient": "",
-        "text_color": "#645144"
+        "text_color": "#2a2a2a"
       }
     },
     "text_with_icons_QKhdzy": {
@@ -136,11 +136,11 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/logos-49_1.png",
+            "custom_icon": "shopify://shop_images/hand-heart.svg",
             "mobile_icon_width": 44,
             "icon_width": 60,
             "icon_background_type": "none",
-            "icon_background": "",
+            "icon_background": "#f6f2e9",
             "icon_color": "#7b9677",
             "title": "Consciously Created",
             "content": "<p>Our products are born out of intention - not just design. From sourcing to stitching, every decision is guided by our values</p>"
@@ -150,7 +150,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/logos-50_1.png",
+            "custom_icon": "shopify://shop_images/sprout.svg",
             "mobile_icon_width": 44,
             "icon_width": 60,
             "icon_background_type": "none",
@@ -164,7 +164,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/logos-51_1.png",
+            "custom_icon": "shopify://shop_images/asterisk.svg",
             "mobile_icon_width": 44,
             "icon_width": 60,
             "icon_background_type": "none",
@@ -190,7 +190,7 @@
         "icon_spacing": "medium",
         "background": "#fefdf8",
         "background_gradient": "",
-        "text_color": "#645144"
+        "text_color": "#2a2a2a"
       }
     },
     "multi_column_LTH3qK": {
@@ -290,7 +290,7 @@
       "settings": {
         "collection": "tote-bags",
         "products": [],
-        "full_width": false,
+        "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
         "products_count": 8,
@@ -301,10 +301,10 @@
         "content": "",
         "link_url": "",
         "link_text": "View all",
-        "background": "#f6f1ea",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
-        "text_color": "#32241b",
-        "heading_color": "",
+        "text_color": "#2a2a2a",
+        "heading_color": "#2a2a2a",
         "heading_gradient": "",
         "product_card_background": "#efeadf",
         "product_card_text_color": ""
