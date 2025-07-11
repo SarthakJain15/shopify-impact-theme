@@ -48,80 +48,6 @@
         "customer_name_10": ""
       }
     },
-    "text-with-icons": {
-      "type": "text-with-icons",
-      "blocks": {
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Reach out to us",
-            "content": "<p>Need assistance? Write to us at <a href=\"mailto:support@kanakpat.com\" target=\"_blank\" title=\"mailto:support@kanakpat.com\"><strong>support@kanakpat.com</strong></a></p>"
-          }
-        },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-star",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Warranty",
-            "content": "<p>We offer a warranty of up to 2 years on all our products.</p>"
-          }
-        },
-        "discount": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Cash on delivery",
-            "content": "<p>Order now and pay cash during delivery.</p>"
-          }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-award-gift",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Refer a Friend",
-            "content": "<p>Refer a friend and earn exciting coupons</p>"
-          }
-        }
-      },
-      "block_order": [
-        "free-shipping",
-        "customer-support",
-        "discount",
-        "payment"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h6",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -165,7 +91,6 @@
   },
   "order": [
     "recent_sales_popup_g7C6QL",
-    "text-with-icons",
     "footer"
   ]
 }
