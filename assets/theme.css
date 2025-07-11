@@ -9896,3 +9896,7 @@ split-lines {
   -webkit-backdrop-filter: blur(10px);
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
 }
+
+main#main {
+  padding-top: 22px; /* Adjust based on your header height */
+}
