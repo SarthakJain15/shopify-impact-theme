@@ -89,6 +89,32 @@
         "text_gradient": ""
       }
     },
+    "featured_collection_wgwTHG": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "tote-bags",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 8,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "New Launches",
+        "content": "",
+        "link_url": "shopify://collections/tote-bags",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "#f6f2e9",
+        "product_card_text_color": "#2a2a2a"
+      }
+    },
     "rich_text_WqLNy3": {
       "type": "rich-text",
       "blocks": {
@@ -193,6 +219,38 @@
         "text_color": "#2a2a2a"
       }
     },
+    "video_wfr8UN": {
+      "type": "video",
+      "blocks": {
+        "play_YL7PiK": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_iyrqQX": {
+          "type": "heading",
+          "settings": {
+            "text": "From Plant to Product",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_YL7PiK",
+        "heading_iyrqQX"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "sm",
+        "external_video_url": "https://youtu.be/TaozMnMNcE4?si=5kjw9q3XMT3PWwax",
+        "poster": "shopify://shop_images/retail-shopping-package.jpg",
+        "text_color": "#fafafa",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "multi_column_LTH3qK": {
       "type": "multi-column",
       "blocks": {
@@ -250,38 +308,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": "#2a2a2a"
-      }
-    },
-    "video_wfr8UN": {
-      "type": "video",
-      "blocks": {
-        "play_YL7PiK": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_iyrqQX": {
-          "type": "heading",
-          "settings": {
-            "text": "From Plant to Product",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_YL7PiK",
-        "heading_iyrqQX"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "sm",
-        "external_video_url": "https://youtu.be/TaozMnMNcE4?si=5kjw9q3XMT3PWwax",
-        "poster": "shopify://shop_images/retail-shopping-package.jpg",
-        "text_color": "#fafafa",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "image-link-blocks": {
@@ -373,32 +399,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "featured_collection_wgwTHG": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "tote-bags",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 8,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "New Launches",
-        "content": "",
-        "link_url": "shopify://collections/tote-bags",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "#f6f2e9",
-        "product_card_text_color": "#2a2a2a"
       }
     },
     "rich_text_Vp4GA7": {
