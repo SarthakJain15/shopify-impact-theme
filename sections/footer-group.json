@@ -35,12 +35,21 @@
             "content": "<p>Need help fast? Fill out <a href=\"https://www.kanakpat.com/pages/contact\" title=\"https://www.kanakpat.com/pages/contact\">our form</a> or email support@kanakpat.com</p>",
             "enable_follow_on_shop": false
           }
+        },
+        "text_WKX7eW": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "content": "<p>For <strong>Gifting & Corporate Orders</strong> WhatsApp us at +91-7737684224 or email bulkorders@kanakpat.com</p>",
+            "enable_follow_on_shop": true
+          }
         }
       },
       "block_order": [
         "links",
         "links_PQqcVH",
-        "text"
+        "text",
+        "text_WKX7eW"
       ],
       "settings": {
         "show_social_media": true,
