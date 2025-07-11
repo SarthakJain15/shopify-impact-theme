@@ -9879,24 +9879,20 @@ split-lines {
   overflow: hidden;
 }
 
-/* Mokobara-style translucent header effect */
-
+/* Transparent to translucent header like Mokobara */
 .header-wrapper {
-  background: transparent !important;
-  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+  background-color: transparent !important;
   position: fixed;
-  width: 100%;
-  z-index: 1000;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
 }
 
 .header-wrapper.scrolled {
-  background: rgba(255, 255, 255, 0.85) !important;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
-}
-
-/* Ensure content below stays visible behind transparent header */
-.main-content, .section--first {
-  padding-top: var(--header-height);
+  background-color: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
 }
