@@ -287,27 +287,31 @@
       }
 
       updatePopupContent(product) {
-        const imageContainer = this.popup.querySelector('.wsp-recent-purchase-popup-image-{{ wsp_section_id }}');
-        const customerElement = this.popup.querySelector('.wsp-recent-purchase-popup-customer-{{ wsp_section_id }}');
-        const productElement = this.popup.querySelector('.wsp-recent-purchase-popup-product-{{ wsp_section_id }}');
-        const timeElement = this.popup.querySelector('.wsp-recent-purchase-popup-time-{{ wsp_section_id }}');
+  const imageContainer = this.popup.querySelector('.wsp-recent-purchase-popup-image-{{ wsp_section_id }}');
+  const customerElement = this.popup.querySelector('.wsp-recent-purchase-popup-customer-{{ wsp_section_id }}');
+  const productElement = this.popup.querySelector('.wsp-recent-purchase-popup-product-{{ wsp_section_id }}');
+  const timeElement = this.popup.querySelector('.wsp-recent-purchase-popup-time-{{ wsp_section_id }}');
 
-        if (product.image) {
-          imageContainer.innerHTML = `<img src="${product.image}" alt="${product.title}" loading="lazy">`;
-        } else {
-          imageContainer.innerHTML = `
-            <div class="wsp-recent-purchase-popup-image-placeholder-{{ wsp_section_id }}">
-              {{ 'product-1' | placeholder_svg_tag }}
-            </div>
-          `;
-        }
+  if (product.image) {
+    imageContainer.innerHTML = `
+      <a href="${product.url}">
+        <img src="${product.image}" alt="${product.title}" loading="lazy">
+      </a>
+    `;
+  } else {
+    imageContainer.innerHTML = `
+      <div class="wsp-recent-purchase-popup-image-placeholder-{{ wsp_section_id }}">
+        {{ 'product-1' | placeholder_svg_tag }}
+      </div>
+    `;
+  }
 
-        customerElement.textContent = product.customerName;
-        productElement.textContent = product.title;
-        
-        const randomMinutes = Math.floor(Math.random() * 30) + 1;
-        timeElement.textContent = `${randomMinutes} minute${randomMinutes === 1 ? '' : 's'} ago`;
-      }
+  customerElement.textContent = product.customerName;
+  productElement.innerHTML = `<a href="${product.url}" style="color: inherit; text-decoration: none;">${product.title}</a>`;
+
+  const randomMinutes = Math.floor(Math.random() * 30) + 1;
+  timeElement.textContent = `${randomMinutes} minute${randomMinutes === 1 ? '' : 's'} ago`;
+  }
     }
 
     customElements.define('recent-purchase-popup-{{ wsp_section_id }}', RecentPurchasePopup{{ wsp_section_id }});
