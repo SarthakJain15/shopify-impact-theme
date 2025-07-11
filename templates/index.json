@@ -9,69 +9,60 @@
  */
 {
   "sections": {
-    "slideshow_rC3aqB": {
-      "type": "slideshow",
+    "image_with_text_overlay_j7xitK": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "image_49hejd": {
-          "type": "image",
+        "subheading_rbwD4B": {
+          "type": "subheading",
           "settings": {
-            "image": "shopify://shop_images/Slide_1_a1d3f0b3-179b-4214-9b48-4b19ad8e4a2a.png",
-            "mobile_image": "shopify://shop_images/Mobile_2_1c7fe42e-01a7-4d7a-a179-f529ab8abb37.png",
-            "content_max_width": 400,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "shopify://collections",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
+            "text": "New Design Launched"
           }
         },
-        "image_gngDUG": {
-          "type": "image",
+        "heading_hbFUYc": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Jul_10_2025_06_30_39_PM_f021577b-3174-4250-9060-accd6134763b.png",
-            "mobile_image": "shopify://shop_images/Mobile_d4f7fbae-43d0-43ed-a1c1-1065fc0a957e.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "shopify://collections",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
+            "text": "CARRY CONSCIOUS LUXURY",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_FKN8qQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h4>No Peeling. No Plastic.<br/>Just Pure Elegance That Lasts</h4>"
+          }
+        },
+        "button_9tKmNH": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "Shop Now",
+            "url": "shopify://collections",
+            "background": "#8b7150",
+            "text_color": ""
           }
         }
       },
       "block_order": [
-        "image_49hejd",
-        "image_gngDUG"
+        "subheading_rbwD4B",
+        "heading_hbFUYc",
+        "richtext_FKN8qQ",
+        "button_9tKmNH"
       ],
-      "name": "Slideshow",
+      "custom_css": [],
+      "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#fffffc",
-        "background_gradient": ""
+        "enable_parallax": false,
+        "image_size": "lg",
+        "image": "shopify://shop_images/ChatGPT_Image_Jul_10_2025_05_43_29_PM.jpg",
+        "mobile_image": "shopify://shop_images/Mobile_2.jpg",
+        "mobile_text_position": "place-self-start-center text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "scrolling-text": {
@@ -592,7 +583,7 @@
     }
   },
   "order": [
-    "slideshow_rC3aqB",
+    "image_with_text_overlay_j7xitK",
     "scrolling-text",
     "featured_collection_wgwTHG",
     "image-link-blocks",
