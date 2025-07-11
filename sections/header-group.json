@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_9pNQKx": {
+          "type": "message",
+          "settings": {
+            "text": "Buy 2 Products and Get a FREE Gift",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -30,6 +37,7 @@
         }
       },
       "block_order": [
+        "message_9pNQKx",
         "message",
         "message_rG8dTy"
       ],
@@ -37,7 +45,7 @@
       "settings": {
         "enable_sticky": false,
         "text_size": "text-base",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 30,
         "background": "#fffffc",
         "background_gradient": "",
