@@ -49,7 +49,9 @@
         "richtext_FKN8qQ",
         "button_9tKmNH"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "{margin-top: -66px;}"
+      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": false,
