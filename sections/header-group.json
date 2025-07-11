@@ -82,6 +82,9 @@
       "block_order": [
         "mega_menu_MeAUwQ"
       ],
+      "custom_css": [
+        ".site-header {background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(10px); position: sticky; top: 0; z-index: 1000;}"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
