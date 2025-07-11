@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_9pNQKx": {
-          "type": "message",
-          "settings": {
-            "text": "Buy 2 Products and Get a FREE Gift",
-            "url": ""
-          }
-        },
         "message": {
           "type": "message",
           "settings": {
@@ -34,18 +27,25 @@
             "text": "Extra 5% off on Prepaid Orders",
             "url": ""
           }
+        },
+        "message_9pNQKx": {
+          "type": "message",
+          "settings": {
+            "text": "Buy 2 Products and Get a FREE Gift",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message_9pNQKx",
         "message",
-        "message_rG8dTy"
+        "message_rG8dTy",
+        "message_9pNQKx"
       ],
       "custom_css": [],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-base",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 30,
         "background": "#7b9677",
         "background_gradient": "",
