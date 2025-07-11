@@ -483,39 +483,42 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/blend.svg",
             "mobile_icon_width": 24,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "Radical Transparency, Elegant Impact",
+            "content": "<p>We believe luxury starts with honesty. From raw materials to the hands that craft your bag, we share every step - openly and proudly.<br/><br/></p>"
           }
         },
         "item_R6W4Gj": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/warehouse.svg",
             "mobile_icon_width": 24,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "title": "Our Own Vegan Glue & Edge Finish",
+            "content": "<p>We formulate our own plant-based glue and edge paint - 100% vegan, biodegradable, and free from petroleum or toxins<br/><br/></p>"
           }
         },
         "item_mh4fcT": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/qr-code.svg",
             "mobile_icon_width": 24,
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
+            "title": "Every Bag Has a Story. Scan to See Yours",
+            "content": "<p>Each Kanakpat bag features a unique QR code that reveals its journey - from ethical sourcing to mindful making<br/><br/></p>"
           }
         }
       },
