@@ -509,6 +509,13 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_gayRjY": {
+          "type": "item",
+          "settings": {
+            "title": "Are the bags washable?",
+            "content": "<p>In case of light strains, you can clean the fabric part by taking a wet cloth and wiping the fabric. For the vegan leather part, wipe the strain off using cotton soaked in any oil, like coconut oil. Do not clean the fabric with oil or any other chemical.</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
@@ -553,6 +560,7 @@
         }
       },
       "block_order": [
+        "item_gayRjY",
         "166442457738b23caf-1",
         "item_fCB4wi",
         "item_dGPqGE",
