@@ -509,18 +509,32 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "How often is the website updated with new products?",
-            "content": "<p>To keep updated about new collections and re-stocks, subscribe on our website for regular email updates.</p>"
-          }
-        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
             "title": "Will an item be restocked?",
             "content": "<p>If the item you’re looking for is out of stock, For further assistance, please <strong>WhatsApp</strong> our customer service.</p><p>Our products are restocked regularly, but some of our products are exclusive and subject to limited stock availability.</p>"
+          }
+        },
+        "item_fCB4wi": {
+          "type": "item",
+          "settings": {
+            "title": "What is estimated delivery time?",
+            "content": "<p>It typically takes 4-10 working days to deliver the product after dispatch.</p>"
+          }
+        },
+        "item_dGPqGE": {
+          "type": "item",
+          "settings": {
+            "title": "What material is our products made of?",
+            "content": "<p>All our products are made up of 100% Plant based vegan leather and handcrafted Indian fabrics such as Cotton Matty, Jute</p>"
+          }
+        },
+        "item_UFDAwf": {
+          "type": "item",
+          "settings": {
+            "title": "How do I take care of my Kanakpat products?",
+            "content": "<p>To keep your bags and accessories clean, wipe them with a soft dry cloth. When they are not in use, store them in a protective dust bag provided with the purchase in a clean, cool and dry place.</p><p>All our materials are carefully crafted and sourced for their unique qualities. Any incidental marks, tonal changes and/or textural variances are part of the material’s natural characteristic and should not be considered as imperfections.</p>"
           }
         },
         "166442457738b23caf-2": {
@@ -530,19 +544,21 @@
             "content": "<p>Kanakpat currently does not provide customisation service yet, for any changes in the services available, subscribe to us on our website for regular email updates.</p>"
           }
         },
-        "item_UFDAwf": {
+        "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "How do I take care of my Kanakpat products?",
-            "content": "<p>To keep your bags and accessories clean, wipe them with a soft dry cloth. When they are not in use, store them in a protective dust bag provided with the purchase in a clean, cool and dry place.</p><p>All our materials are carefully crafted and sourced for their unique qualities. Any incidental marks, tonal changes and/or textural variances are part of the material’s natural characteristic and should not be considered as imperfections.</p>"
+            "title": "How often is the website updated with new products?",
+            "content": "<p>To keep updated about new collections and re-stocks, subscribe on our website for regular email updates.</p>"
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
         "166442457738b23caf-1",
+        "item_fCB4wi",
+        "item_dGPqGE",
+        "item_UFDAwf",
         "166442457738b23caf-2",
-        "item_UFDAwf"
+        "166442457738b23caf-0"
       ],
       "settings": {
         "full_width": false,
