@@ -78,11 +78,11 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "designed for #goingplaces",
+        "text": "Vegan • Biodegradable • Handcrafted in India • QR Verified",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 11,
+        "scrolling_speed": 16,
         "background": "",
         "background_gradient": "",
         "text_color": "#7b9677",
@@ -558,11 +558,11 @@
         "link_text": "",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "text_color": "#32241b",
+        "heading_color": "#32241b",
         "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
+        "testimonial_card_background": "#f6f2e9",
+        "testimonial_card_text_color": "#2a2a2a"
       }
     },
     "faq": {
