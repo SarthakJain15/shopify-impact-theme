@@ -375,6 +375,32 @@
         "heading_gradient": ""
       }
     },
+    "featured_collection_wgwTHG": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "tote-bags",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 8,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "New Launches",
+        "content": "",
+        "link_url": "shopify://collections/tote-bags",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "#f6f2e9",
+        "product_card_text_color": "#2a2a2a"
+      }
+    },
     "rich_text_Vp4GA7": {
       "type": "rich-text",
       "blocks": {
@@ -413,32 +439,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "featured_collection_wgwTHG": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "tote-bags",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 8,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "New Launches",
-        "content": "",
-        "link_url": "shopify://collections/tote-bags",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "#f6f2e9",
-        "product_card_text_color": "#2a2a2a"
       }
     },
     "text_with_icons_HJfcz9": {
@@ -621,13 +621,13 @@
   "order": [
     "slideshow_rC3aqB",
     "scrolling-text",
+    "featured_collection_wgwTHG",
     "rich_text_WqLNy3",
     "text_with_icons_QKhdzy",
-    "multi_column_LTH3qK",
     "video_wfr8UN",
+    "multi_column_LTH3qK",
     "image-link-blocks",
     "rich_text_Vp4GA7",
-    "featured_collection_wgwTHG",
     "text_with_icons_HJfcz9",
     "testimonials_gf36BD",
     "faq"
