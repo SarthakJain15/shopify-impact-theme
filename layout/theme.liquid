@@ -84,5 +84,24 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
+
+    <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const header = document.querySelector('.header-wrapper');
+    if (!header) return;
+
+    function toggleHeaderTransparency() {
+      if (window.scrollY > 20) {
+        header.classList.add('scrolled');
+      } else {
+        header.classList.remove('scrolled');
+      }
+    }
+
+    toggleHeaderTransparency();
+    window.addEventListener('scroll', toggleHeaderTransparency);
+  });
+</script>
+
   </body>
 </html>
