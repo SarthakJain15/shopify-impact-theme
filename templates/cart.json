@@ -9,66 +9,6 @@
  */
 {
   "sections": {
-    "testimonials_cViqHB": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_wMHmwR": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_MH4hh4": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_RY4h4t": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_wMHmwR",
-        "testimonial_MH4hh4",
-        "testimonial_RY4h4t"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "main": {
       "type": "main-cart",
       "blocks": {
@@ -79,10 +19,6 @@
             "show_shipping_text": true
           }
         },
-        "cart_note": {
-          "type": "cart_note",
-          "settings": {}
-        },
         "checkout_button": {
           "type": "checkout_button",
           "settings": {}
@@ -90,7 +26,6 @@
       },
       "block_order": [
         "totals",
-        "cart_note",
         "checkout_button"
       ],
       "settings": {
@@ -100,7 +35,6 @@
     }
   },
   "order": [
-    "main",
-    "testimonials_cViqHB"
+    "main"
   ]
 }
