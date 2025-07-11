@@ -74,6 +74,21 @@
         "background_gradient": ""
       }
     },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "designed for #goingplaces",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 11,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#7b9677",
+        "text_gradient": ""
+      }
+    },
     "rich_text_WqLNy3": {
       "type": "rich-text",
       "blocks": {
@@ -386,21 +401,6 @@
         "heading_gradient": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "designed for #goingplaces",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 11,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#7b9677",
-        "text_gradient": ""
-      }
-    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -436,28 +436,165 @@
         "button_text_color": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
+    "rich_text_Vp4GA7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_GtJEte": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_hy7PXa": {
+          "type": "heading",
+          "settings": {
+            "text": "The future of handbags is here",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_Kzeb9B": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discussing the impact of vegan handbags on the environment</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_GtJEte",
+        "heading_hy7PXa",
+        "richtext_Kzeb9B"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Dark Brown/Pale Green",
-        "content": "<p>Decluttering allows for a stress-free, controlled and peaceful mindset.</p>",
-        "before_image": "shopify://shop_images/b4ce3f50-6d40-4544-924d-6903d4790774_3cdb0896-c925-4b19-9553-b97b0643e75a.png",
-        "after_image": "shopify://shop_images/3_5b7bda58-766a-4c75-8c87-9b6a01f12112.png",
-        "expand_image": false,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Dark Brown",
-        "after_text": "Pale Green",
-        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "#32241b",
-        "before_text_color": "#8b7150",
-        "after_text_color": "#8b7150",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#8b7150"
+        "text_color": ""
+      }
+    },
+    "text_with_icons_HJfcz9": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_AF3nAh": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_R6W4Gj": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_mh4fcT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_AF3nAh",
+        "item_R6W4Gj",
+        "item_mh4fcT"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "testimonials_gf36BD": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_YQ6FwU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_n8PpqY": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_mYibBi": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_YQ6FwU",
+        "testimonial_n8PpqY",
+        "testimonial_mYibBi"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": false,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "faq": {
@@ -515,15 +652,17 @@
   },
   "order": [
     "slideshow_rC3aqB",
+    "scrolling-text",
     "rich_text_WqLNy3",
     "text_with_icons_QKhdzy",
     "multi_column_LTH3qK",
     "video_wfr8UN",
     "featured_collection_qaHtFJ",
     "image-link-blocks",
-    "scrolling-text",
     "impact-text",
-    "before-after-image",
+    "rich_text_Vp4GA7",
+    "text_with_icons_HJfcz9",
+    "testimonials_gf36BD",
     "faq"
   ]
 }
