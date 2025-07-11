@@ -251,65 +251,6 @@
         "overlay_opacity": 30
       }
     },
-    "multi_column_LTH3qK": {
-      "type": "multi-column",
-      "blocks": {
-        "item_EMMy6L": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Unmatched Durability for Everyday Use",
-            "heading_tag": "h4",
-            "content": "<p>Designed to withstand daily wear and tear. Crafted from durable materials to ensure longevity.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_giByne": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Stylish Designs for Every Occasion",
-            "heading_tag": "h4",
-            "content": "<p>Elevate your outfit with our chic styles. Elevate your fashion game with our stylish options.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3Yy38C": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Eco-Friendly Materials You Can Trust",
-            "heading_tag": "h4",
-            "content": "<p>Contribute to a sustainable future with every purchase. Help build a greener tomorrow.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_EMMy6L",
-        "item_giByne",
-        "item_3Yy38C"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "Sustainable",
-        "title": "Discover the Perfect Vegan Leather Handbags",
-        "content": "<p>Our handbags are crafted for durability and style, ensuring they stand the test of time while making a fashion statement. Embrace eco-friendliness without compromising on elegance.</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#2a2a2a"
-      }
-    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -625,7 +566,6 @@
     "rich_text_WqLNy3",
     "text_with_icons_QKhdzy",
     "video_wfr8UN",
-    "multi_column_LTH3qK",
     "image-link-blocks",
     "rich_text_Vp4GA7",
     "text_with_icons_HJfcz9",
