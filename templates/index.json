@@ -9,60 +9,67 @@
  */
 {
   "sections": {
-    "image_with_text_overlay_j7xitK": {
-      "type": "image-with-text-overlay",
+    "slideshow_prPE7y": {
+      "type": "slideshow",
       "blocks": {
-        "subheading_rbwD4B": {
-          "type": "subheading",
+        "image_KwhGFk": {
+          "type": "image",
           "settings": {
-            "text": "New Design Launched"
+            "image": "shopify://shop_images/ChatGPT_Image_Jul_10_2025_05_43_29_PM.jpg",
+            "content_max_width": 400,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#7b9677",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
           }
         },
-        "heading_hbFUYc": {
-          "type": "heading",
+        "image_dBGReR": {
+          "type": "image",
           "settings": {
-            "text": "CARRY CONSCIOUS LUXURY",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_FKN8qQ": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h4>No Peeling. No Plastic.<br/>Just Pure Elegance That Lasts</h4>"
-          }
-        },
-        "button_9tKmNH": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "base",
-            "text": "Shop Now",
-            "url": "shopify://collections",
-            "background": "#8b7150",
-            "text_color": ""
+            "image": "shopify://shop_images/ChatGPT_Image_Jul_10_2025_06_30_39_PM.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center-end sm:text-end",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "subheading_rbwD4B",
-        "heading_hbFUYc",
-        "richtext_FKN8qQ",
-        "button_9tKmNH"
+        "image_KwhGFk",
+        "image_dBGReR"
       ],
-      "custom_css": [],
-      "name": "Image with text overlay",
+      "name": "Slideshow",
       "settings": {
         "full_width": false,
         "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "lg",
-        "image": "shopify://shop_images/ChatGPT_Image_Jul_10_2025_05_43_29_PM.jpg",
-        "mobile_image": "shopify://shop_images/Mobile_2.jpg",
-        "mobile_text_position": "place-self-start-center text-center",
-        "desktop_text_position": "sm:place-self-center-start sm:text-start",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "scrolling-text": {
@@ -583,7 +590,7 @@
     }
   },
   "order": [
-    "image_with_text_overlay_j7xitK",
+    "slideshow_prPE7y",
     "scrolling-text",
     "featured_collection_wgwTHG",
     "image-link-blocks",
