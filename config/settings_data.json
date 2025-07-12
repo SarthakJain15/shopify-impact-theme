@@ -77,7 +77,25 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "17786631168105820736": {
+        "type": "shopify://apps/sb-disable-right-click/blocks/sb_security/80c619f2-01dc-4dbd-b114-bdca3d0b6837",
+        "disabled": false,
+        "settings": {}
+      },
+      "6089946381803635929": {
+        "type": "shopify://apps/kwik-cod-checkout/blocks/app-embed/74f36c20-677c-4aa2-b179-1769aa61abaa",
+        "disabled": false,
+        "settings": {
+          "gkc_button_text": "Checkout Now",
+          "gkc_button_subtext": "",
+          "gkc_button_bg": "#000000",
+          "gkc_text_color": "#ffffff",
+          "gk_image": true
+        }
+      }
+    }
   },
   "presets": {
     "Sound": {
